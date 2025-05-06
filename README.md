@@ -13,7 +13,7 @@
 
     - User Interface Mockups -------------------------------------------------------
        - Bird Reborn - User Interface Mockups.pdf
-          - Showcases breif example of what our UIs are going to look like
+          - Showcases brief example of what our UIs are going to look like
 
     - System Requirements Document -------------------------------------------------
        - BirdRebornClassDiagram.pdf
