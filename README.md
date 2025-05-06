@@ -28,3 +28,14 @@
           - Used to describe the use case diagram and scenarios on a more technical system level and tell what data and methods are being sent to the system and back to the user
 
      - System Design Document ------------------------------------------------------
+       - System Design Document - Bird Reborn.pdf
+          - Contains introduction and outline for files in this section
+       - BirdReborn_DesignLevelClassDiagram.pdf
+          - A more detailed version of our class diagrams from the System Requirements phase that lists data types and parameters
+       - BirdReborn_Pseudocode.pdf
+          - Contains a rough draft of how we are going to make our code for our system
+       - BirdReborn_StateChart.pdf
+          - Used to describe the states that Bird Reborn could be in and how they transition between states
+       - BirdReborn_SequenceDiagram.pdf
+          - Compiles most features from our previous documents and show it how it works and what classes, methods, and entities are required to have the feature function
+ 
