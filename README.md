@@ -1,7 +1,13 @@
 # CMP 280 Software Engineering Team 6 - Dead Bird -
  Repository for Team Project - Bird Reborn - Associated with CMP-280 
 
+ Bird Reborn is an intended to be an update/enhancement to X/Twitter that adds features like verification reasons, block reasons, appwide themes, profile themes, a remove follower button, better content filtering, and community badges.
+
  - Current Files
+    - Project Proposal --------------------------------------------------------------
+       - Project Proposal Presentation.pdf
+          - Showcases our pitch for our update
+
     - Project Plan ------------------------------------------------------------------
        - BirdReborn_SystemContextDiagram.pdf
           - Showcases the type of data being sent through the system
